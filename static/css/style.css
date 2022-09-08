@@ -2,6 +2,7 @@
 
 /*  Add image to jumbotron */
 .jumbotron {
+
     background-image: url("../images/petri_dishes.webp");
     background-size: 100% 100%;
     text-align: center;

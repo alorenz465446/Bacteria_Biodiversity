@@ -14,7 +14,7 @@ image of results
 Brief explenation of what the results say and detect any trends in the data
 
 
-
+Difficult to compare 300 to 1 on the scale.. using more of a standard scale would be beneficial. 
 
 ### Resources 
 * Plotly.js 
